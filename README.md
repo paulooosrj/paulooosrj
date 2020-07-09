@@ -1,6 +1,6 @@
 # Paulo Romão
-[![Linkedin Badge](https://img.shields.io/badge/-danielobara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulooosrj/)](https://www.linkedin.com/in/paulooosrj/)
-[![Gmail Badge](https://img.shields.io/badge/-danieltsutomu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulojunioromao@gmail.com)](mailto:paulojunioromao@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-paulooosrj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulooosrj/)](https://www.linkedin.com/in/paulooosrj/)
+[![Gmail Badge](https://img.shields.io/badge/-paulojunioromao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulojunioromao@gmail.com)](mailto:paulojunioromao@gmail.com)
 
 ## Hi 👋, 
 I'm Paulo Romão, I'm a Back end developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
