@@ -11,3 +11,5 @@ I'm Paulo Romão, I'm a Back end developer 👨‍💻 who is passionate about J
 -  ⚡ Technologies: Node, Typescript, NestJS, PHP
 
 "Art challenges technology, and technology inspires art." 
+
+[![Paulo Romao github stats](https://github-readme-stats.vercel.app/api?username=paulooosrj)](https://github.com/paulooosrj/paulooosrj)
